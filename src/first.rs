@@ -1,3 +1,5 @@
+#![allow(unused_imports)]
+
 use std::mem;
 
 pub struct List {
